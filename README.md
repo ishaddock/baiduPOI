@@ -1,5 +1,5 @@
 # baiduPOI
-Data crawling
+代码请看code文件
 
 1、用python爬取了一个杭州北部一块矩形范围的百度POI数据，导出到SQL sever方便存储管理；
 
